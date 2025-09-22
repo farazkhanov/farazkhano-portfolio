@@ -140,7 +140,7 @@ body {
   right: 0;
   width: 100%;
   height: 100%;
-  background: rgb(7, 29, 44);
+  background: rgb(6, 27, 41);
   animation: showRight 1s ease forwards;
   animation-delay: 2.5s;
   z-index: 2;
@@ -234,7 +234,7 @@ body {
   transition: 0.5s;
 }
 .home-sci a:hover {
-  color: #081d2c;
+  color: #081f30ffff;
 }
 
 .home-sci a::before {
@@ -281,7 +281,7 @@ body {
   right: 0;
   width: 100%;
   height: 100%;
-  background: #081b29;
+  background: #071925;
   animation: showRight 1s ease forwards;
   animation-delay: 1s;
 }
@@ -311,7 +311,7 @@ body {
   right: 0;
   width: 120%;
   height: 80%;
-  background: #081b29;
+  background: #081d2c;
   animation: showRight 1s ease forwards;
   animation-delay: 3s;
   z-index: 100;
